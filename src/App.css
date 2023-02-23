@@ -83,7 +83,7 @@ input:focus{
 }
 .icon {
   position: relative;
-  width: 300px;
+  width: 200px;
   height: 300px;
   bottom: 280px;
   float:right;
@@ -95,6 +95,7 @@ input:focus{
   font-size:80px;
   color:#ffffff ;        
   right: 120px;
+  padding-left: 20px;
 }
 .card-footer {
   background-color: #462e64;     
