@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Clima/static/css/main.cea0af98.css",
+    "main.css": "/Clima/static/css/main.9692fdee.css",
     "main.js": "/Clima/static/js/main.fc80d02d.js",
     "static/media/fondodos.jpg": "/Clima/static/media/fondodos.1d8756919b3b1747ce6f.jpg",
     "index.html": "/Clima/index.html",
-    "main.cea0af98.css.map": "/Clima/static/css/main.cea0af98.css.map",
+    "main.9692fdee.css.map": "/Clima/static/css/main.9692fdee.css.map",
     "main.fc80d02d.js.map": "/Clima/static/js/main.fc80d02d.js.map"
   },
   "entrypoints": [
-    "static/css/main.cea0af98.css",
+    "static/css/main.9692fdee.css",
     "static/js/main.fc80d02d.js"
   ]
 }
